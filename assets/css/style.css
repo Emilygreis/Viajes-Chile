@@ -8,3 +8,9 @@ body {
     border: hidden;
     height: 100%;
 }
+
+footer a {
+    text-decoration: none;
+}
+
+footer a, footer a:hover, footer a:visited { color: white;}
